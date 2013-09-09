@@ -16,3 +16,10 @@ python marketvalue.py
 ```bash
 while true; do clear; ./marketvalue.py ; sleep 30; done
 ```
+
+## Appreciation
+
+If you like this little script feel free to donate (BTC) to:
+
+1rntsUZrVkfbNNixDcVoaFwEKeAYff6jb
+
