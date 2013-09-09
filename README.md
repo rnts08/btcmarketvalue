@@ -3,12 +3,16 @@ btcmarketvalue
 
 Simple script that pulls the last price of BTC in USD and displays it on screen. 
 
-- Installation -
+Installation
 
-* git clone https://github.com/rnts08/btcmarketvalue.git
-* pip install requests
-* python marketvalue.py
+```
+git clone https://github.com/rnts08/btcmarketvalue.git
+pip install requests
+python marketvalue.py
+```
 
-- Example - 
+Example usage in a bash-terminal
 
- while true; do clear; ./marketvalue.py ; sleep 30; done
+```bash
+while true; do clear; ./marketvalue.py ; sleep 30; done
+```
