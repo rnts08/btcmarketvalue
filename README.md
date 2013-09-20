@@ -19,7 +19,7 @@ while true; do clear; ./marketvalue.py ; sleep 30; done
 
 ## Appreciation
 
-If you like this little script feel free to donate (BTC) to:
+If you like this little script feel free to donate to:
 
-1rntsUZrVkfbNNixDcVoaFwEKeAYff6jb
-
+BTC: 1rntsUZrVkfbNNixDcVoaFwEKeAYff6jb
+LTC: LWbNEKnRtqhq3bh2A6AjmeYZJmjk9HbPGi
