@@ -17,6 +17,14 @@ python marketvalue.py
 while true; do clear; ./marketvalue.py ; sleep 30; done
 ```
 
+## LTCValue.py - Example usage of ltcvalue.py
+
+A simple script that pulls the USD/LTC price from BTC-e and displays high/low.
+
+```bash
+while true; do clear; ./ltcvalue.py ; sleep 30; done
+```
+
 ## Appreciation
 
 If you like this little script feel free to donate to:
